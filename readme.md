@@ -1,1 +1,1 @@
-# Minecraft Mods
+# Minecraft Fantasy Hard Modpack 1.19.2 - Client Side
