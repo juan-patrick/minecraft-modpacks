@@ -8,6 +8,7 @@ Para escolher o modpack, basta selecionar a branch necessário, baixar o projeto
 
 Tutorial visual
 
+![](https://github.com/juan-patrick/minecraft-modpacks/blob/main/how-to-download-branch-zip.gif)
 
 
 ### Regras das branchs
